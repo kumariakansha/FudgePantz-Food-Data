@@ -1,0 +1,33 @@
+Salad	Indegredient	Category
+Chicken Caesar Salad	"chicken Tikka,red onions,baby spinach,sun-dried tomatoes,artichoke hearts"	Salad
+Caesar Salad	"red onions,baby spinach,sun-dried tomatoes,artichoke hearts"	Salad
+Grilled Squid Salad	"red onions,baby spinach,beetroot slices,green olives,Chorizo"	Salad
+Mexican Octopus Salad	"baby spinach,French onions,beetroot slices,anchovies"	Salad
+Cabbage Salad	"chicken Tikka,red onions,baby spinach,artichoke hearts,sliced courgettes"	Salad
+Tuna Macaroni Salad	"baby spinach,French onions,beetroot slices,seared scallops"	Salad
+Chicken And Pear Salad	"chicken Tikka,red onions,baby spinach,sun-dried tomatoes"	Salad
+Chinese Chicken Salad	"chicken Tikka,red onions,green olives"	Salad
+Creamy Potato Salad	"baby spinach,French onions"	Salad
+Italian Pasta Salad	"French onions,sun-dried tomatoes,artichoke hearts"	Salad
+Chicken Salad 	"chicken Tikka,red onions"	Salad
+Broccoli Salad	"French onions,sun-dried tomatoes,artichoke hearts"	Salad
+Indian sandwich	"grilled chicken, sausage, red onions"	Sandwiches
+pork sandwich	"Tandoori chicken, beef, cranberries"	Sandwiches
+beef sandwich	"Tandoori chicken, beef, sausage"	Sandwiches
+Bhopali sandwich	"Tofu cubes, red onions, soy cheese"	Sandwiches
+chicken sandwich	"grilled chicken, curried chicken, green olives"	Sandwiches
+Puneri sandwich	"Cheddar, carrot strips,Tofu cubes"	Sandwiches
+lamb sandwich	"lamb kofta, meatballs, grilled apricots"	Sandwiches
+Thai sandwich	"King prawns, tuna, carrot strips"	Sandwiches
+sea sandwich	"crab meat, sliced aubergine, capers"	Sandwiches
+ham sandwich	"Parma ham, bacon, deep-fried base"	Sandwiches
+Amicci special	"pepperoni, button mushroom, bacon, red onions, black olives, Chimichurri sauce, sourdough crust"	Pizza
+Meat lovers	"pepperoni, sausage, ham hock, bacon, cracker crust, Piri Piri sauce, Puttenesca sauce"	Pizza
+chikken Tikka	"chicken Tikka, French onions, bell peppers, smoked tofu, Camembert, Carbonarra sauce, polenta crust"	Pizza
+Veggie Supreme	"Mozzarella, bell peppers, red onions, black olives, sweetcorn, cherry tomatoes, paneer cheese, Marinara sauce, thin crust"	Pizza
+Margherita	"Mozzarella, cherry tomatoes, paneer cheese, thin crust, garlic aioli sauce, Zaatar and olive oil"	Pizza
+Capri	"Zaatar and olive oil, Mozzarella, salami, bacon, cherry tomatoes, pepper jelly"	Pizza
+5 Pepper	"red peppers, jalapenos, bell peppers, Shiitake mushrooms, Mozzarella, thick crust, tomato pesto, basil pesto"	Pizza
+Country Special	"red onions, cherry tomatoes, bell peppers, Mozzarella, multigrain crust, Carbonarra sauce"	Pizza
+Chicken Fiesta	"red onions, red peppers, Chicken Fajitas, satay chicken, focaccia, Puttenesca sauce, Ricotta cheese"	Pizza
+Non veg Supreme	"black olives, red onions, bell peppers, button mushroom, satay chicken, chicken Tikka, Puttenesca sauce, sourdough crust"	Pizza
